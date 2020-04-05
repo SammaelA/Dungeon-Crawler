@@ -1,0 +1,62 @@
+texture magic1t "tileset/Sliced/fx_24x24/oryx_16bit_fantasy_fx2_15.png"
+texture fireball1t "tileset/Sliced/fx_32x32/oryx_16bit_fantasy_fx_42.png"
+texture fireball2t "tileset/Sliced/fx_32x32/oryx_16bit_fantasy_fx_41.png"
+texture fireball3t "tileset/Sliced/fx_32x32/oryx_16bit_fantasy_fx_43.png"
+texture fireball4t "tileset/Sliced/fx_32x32/oryx_16bit_fantasy_fx_44.png"
+texture floor1_tex "tileset/Sliced/world_24x24/oryx_16bit_fantasy_world_178.png"
+texture floor2_tex "tileset/Sliced/world_24x24/oryx_16bit_fantasy_world_1969.png"
+texture creatures "tileset/creatures_trans.png"
+texture start_chest_tex "tileset/Sliced/world_24x24/oryx_16bit_fantasy_world_261.png"
+texture chest_tex "tileset/Sliced/world_24x24/oryx_16bit_fantasy_world_262.png"
+texture necr1_t "tileset/Sliced/creatures_24x24/oryx_16bit_fantasy_creatures_300.png"
+texture necr2_t "tileset/Sliced/creatures_24x24/oryx_16bit_fantasy_creatures_318.png"
+texture witch1_t "tileset/Sliced/creatures_24x24/oryx_16bit_fantasy_creatures_06.png"
+texture witch2_t "tileset/Sliced/creatures_24x24/oryx_16bit_fantasy_creatures_24.png"
+texture guardian1_t "tileset/Sliced/creatures_24x24/oryx_16bit_fantasy_creatures_90.png"
+texture guardian2_t "tileset/Sliced/creatures_24x24/oryx_16bit_fantasy_creatures_108.png"
+texture arrow_t "tileset/Sliced/fx_32x32/oryx_16bit_fantasy_fx_09.png"
+texture bolt_t "tileset/Sliced/fx_32x32/oryx_16bit_fantasy_fx_04.png"
+texture fireball_t "tileset/Sliced/fx_32x32/oryx_16bit_fantasy_fx_02.png"
+
+tile fireball_up fireball1t
+tile fireball_r fireball2t
+tile fireball_down fireball3t
+tile fireball_l fireball4t
+tile magic1 magic1t
+tile floor1 floor1_tex
+tile floor2 floor2_tex
+tile start_chest start_chest_tex
+tile chest chest_tex
+tile necr1 necr1_t
+tile necr2 necr2_t
+tile witch1 witch1_t 
+tile witch2 witch2_t
+tile guardian1 guardian1_t
+tile guardian2 guardian2_t
+tile arrow arrow_t
+tile bolt bolt_t
+tile fireball fireball_t
+
+tilecut player1 creatures 336 48 24 24
+tilecut player2 creatures 336 72 24 24
+tilecut enemy1 creatures 72 0 24 24
+tilecut enemy2 creatures 72 24 24 24
+tilecut charger1 creatures 240 240 24 24 
+tilecut charger2 creatures 240 264 24 24
+tilecut fire1 creatures 384 480 24 24
+tilecut fire2 creatures 384 504 24 24
+tilecut demon1 creatures 192 240 24 24
+tilecut demon2 creatures 192 264 24 24
+tilecut tp1 creatures 0 480 24 24
+tilecut tp2 creatures 0 502 24 24
+
+animation player_anim player1 player2
+animation enemy_anim enemy1 enemy2
+animation charger_anim charger1 charger2
+animation fire_anim fire1 fire2
+animation firedemon_anim demon1 demon2
+animation teleport_anim tp1 tp2
+animation necr_anim necr1 necr2
+animation witch_anim witch1 witch2
+animation guardian_anim guardian1 guardian2
+

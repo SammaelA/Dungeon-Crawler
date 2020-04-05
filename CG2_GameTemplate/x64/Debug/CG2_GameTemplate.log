@@ -1,0 +1,276 @@
+﻿  AttackFunctions.cpp
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(25): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(47): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(53): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\attackfunctions.cpp(16): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+d:\программирование\cg_2_albert\cg2_gametemplate\attackfunctions.cpp(17): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+d:\программирование\cg_2_albert\cg2_gametemplate\attackfunctions.cpp(18): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+d:\программирование\cg_2_albert\cg2_gametemplate\attackfunctions.cpp(297): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\программирование\cg_2_albert\cg2_gametemplate\attackfunctions.cpp(300): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\программирование\cg_2_albert\cg2_gametemplate\attackfunctions.cpp(300): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\программирование\cg_2_albert\cg2_gametemplate\attackfunctions.cpp(302): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\программирование\cg_2_albert\cg2_gametemplate\attackfunctions.cpp(304): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\программирование\cg_2_albert\cg2_gametemplate\attackfunctions.cpp(304): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\программирование\cg_2_albert\cg2_gametemplate\attackfunctions.cpp(313): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\программирование\cg_2_albert\cg2_gametemplate\attackfunctions.cpp(315): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\программирование\cg_2_albert\cg2_gametemplate\attackfunctions.cpp(315): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\программирование\cg_2_albert\cg2_gametemplate\attackfunctions.cpp(317): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\программирование\cg_2_albert\cg2_gametemplate\attackfunctions.cpp(326): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\программирование\cg_2_albert\cg2_gametemplate\attackfunctions.cpp(328): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\программирование\cg_2_albert\cg2_gametemplate\attackfunctions.cpp(330): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\программирование\cg_2_albert\cg2_gametemplate\attackfunctions.cpp(332): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\memory(2539): warning C4244: аргумент: преобразование "_Ty" в "float", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+  d:\программирование\cg_2_albert\cg2_gametemplate\attackfunctions.cpp(166): note: выполняется компиляция ссылки на экземпляр шаблон функции "std::unique_ptr<game::PoisonEffect,std::default_delete<_Ty>> std::make_unique<game::PoisonEffect,double,double,0>(double &&,double &&)"
+          with
+          [
+              _Ty=game::PoisonEffect
+          ]
+  ECS.cpp
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(25): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(47): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(53): warning C4018: <: несоответствие типов со знаком и без знака
+  EcsBosses.cpp
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(25): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(47): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(53): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\ecsbosses.cpp(34): warning C4018: >=: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\ecsbosses.cpp(44): warning C4018: >=: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\ecsbosses.cpp(52): warning C4018: >=: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\ecsbosses.cpp(76): warning C4018: >: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\ecsbosses.cpp(142): warning C4018: >=: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\ecsbosses.cpp(151): warning C4018: >=: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\ecsbosses.cpp(158): warning C4018: >=: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\ecsbosses.cpp(173): warning C4018: <=: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\ecsbosses.cpp(243): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\программирование\cg_2_albert\cg2_gametemplate\ecsbosses.cpp(244): warning C4018: >=: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\ecsbosses.cpp(284): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  EcsComponents.cpp
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(25): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(47): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(53): warning C4018: <: несоответствие типов со знаком и без знака
+  EcsEntities.cpp
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(25): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(47): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(53): warning C4018: <: несоответствие типов со знаком и без знака
+  EcsOrder.cpp
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(25): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(47): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(53): warning C4018: <: несоответствие типов со знаком и без знака
+  EnemiesCatalogue.cpp
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(25): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(47): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(53): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\enemiescatalogue.cpp(124): warning C4018: >: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\enemiescatalogue.cpp(155): warning C4018: >: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\enemiescatalogue.cpp(207): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\программирование\cg_2_albert\cg2_gametemplate\enemiescatalogue.cpp(345): warning C4018: >: несоответствие типов со знаком и без знака
+  Game.cpp
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(25): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(47): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(53): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\game.cpp(71): warning C4244: инициализация: преобразование "double" в "volatile float", возможна потеря данных
+d:\программирование\cg_2_albert\cg2_gametemplate\game.cpp(79): warning C4244: аргумент: преобразование "double" в "sf::Int32", возможна потеря данных
+d:\программирование\cg_2_albert\cg2_gametemplate\game.cpp(81): warning C4244: =: преобразование "double" в "volatile float", возможна потеря данных
+  GameDataLoad.cpp
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(25): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(47): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(53): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\gamedataload.cpp(201): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+  GameLoadLevel.cpp
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(25): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(47): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(53): warning C4018: <: несоответствие типов со знаком и без знака
+  GameResources.cpp
+d:\программирование\cg_2_albert\cg2_gametemplate\gameresources.cpp(229): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\gameresources.cpp(230): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\gameresources.cpp(233): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  GameStructures.cpp
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(25): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(47): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(53): warning C4018: <: несоответствие типов со знаком и без знака
+  main.cpp
+d:\программирование\cg_2_albert\cg2_gametemplate\main.cpp(1): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+  d:\программирование\cg_2_albert\cg2_gametemplate\main.cpp: note: см. предыдущее определение "_CRT_SECURE_NO_WARNINGS"
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(25): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(47): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(53): warning C4018: <: несоответствие типов со знаком и без знака
+  PotionsCatalogue.cpp
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(25): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(47): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(53): warning C4018: <: несоответствие типов со знаком и без знака
+  S_GameAttackSys.cpp
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(25): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(47): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(53): warning C4018: <: несоответствие типов со знаком и без знака
+  S_GameGuiRenderSys.cpp
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(25): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(47): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(53): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\s_gameguirendersys.cpp(170): warning C4244: аргумент: преобразование "const T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  S_GameInputController.cpp
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(25): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(47): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(53): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\s_gameinputcontroller.cpp(58): warning C4305: =: усечение из "double" в "float"
+d:\программирование\cg_2_albert\cg2_gametemplate\s_gameinputcontroller.cpp(59): warning C4305: =: усечение из "double" в "float"
+  Renderer.cpp
+d:\программирование\cg_2_albert\cg2_gametemplate\renderer.cpp(51): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+d:\программирование\cg_2_albert\cg2_gametemplate\renderer.cpp(61): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+d:\программирование\cg_2_albert\cg2_gametemplate\renderer.cpp(75): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+d:\программирование\cg_2_albert\cg2_gametemplate\renderer.cpp(90): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+d:\программирование\cg_2_albert\cg2_gametemplate\renderer.cpp(99): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+d:\программирование\cg_2_albert\cg2_gametemplate\renderer.cpp(103): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+d:\программирование\cg_2_albert\cg2_gametemplate\renderer.cpp(109): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+d:\программирование\cg_2_albert\cg2_gametemplate\renderer.cpp(116): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+d:\программирование\cg_2_albert\cg2_gametemplate\renderer.cpp(387): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\renderer.cpp(387): warning C4018: <=: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\renderer.cpp(392): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\программирование\cg_2_albert\cg2_gametemplate\renderer.cpp(398): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\программирование\cg_2_albert\cg2_gametemplate\renderer.cpp(523): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+d:\программирование\cg_2_albert\cg2_gametemplate\utils.h(11): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  d:\программирование\cg_2_albert\cg2_gametemplate\renderer.cpp(547): note: выполняется компиляция ссылки на экземпляр шаблон функции "int InsertStable<std::unique_ptr<sf::RectangleShape,std::default_delete<_Ty>>,unsigned int>(T &&,std::vector<std::unique_ptr<_Ty,std::default_delete<_Ty>>,std::allocator<std::unique_ptr<_Ty,std::default_delete<_Ty>>>> &,std::vector<unsigned int,std::allocator<_Elem>> &)"
+          with
+          [
+              _Ty=sf::RectangleShape,
+              T=std::unique_ptr<sf::RectangleShape,std::default_delete<sf::RectangleShape>>,
+              _Elem=sf::Uint32
+          ]
+d:\программирование\cg_2_albert\cg2_gametemplate\utils.h(28): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  d:\программирование\cg_2_albert\cg2_gametemplate\renderer.cpp(569): note: выполняется компиляция ссылки на экземпляр шаблон функции "int InsertStable<game::Renderer::GuiTile,unsigned int>(const T &,std::vector<game::Renderer::GuiTile,std::allocator<_Ty>> &,std::vector<unsigned int,std::allocator<_Elem>> &)"
+          with
+          [
+              T=game::Renderer::GuiTile,
+              _Ty=game::Renderer::GuiTile,
+              _Elem=sf::Uint32
+          ]
+  S_GameMove.cpp
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(25): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(47): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(53): warning C4018: <: несоответствие типов со знаком и без знака
+  S_GameRender.cpp
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(25): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(47): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(53): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\s_gamerender.cpp(80): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  Создание кода...
+d:\программирование\cg_2_albert\cg2_gametemplate\attackfunctions.cpp(402): warning C4715: game::AttackFuncts::Attack: значение возвращается не при всех путях выполнения
+  Компиляция...
+  S_GameTick.cpp
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(25): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(47): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(53): warning C4018: <: несоответствие типов со знаком и без знака
+  Utils.cpp
+  WeaponsCatalogue.cpp
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(25): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(47): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программирование\cg_2_albert\cg2_gametemplate\gamestructures.h(53): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  CG2_GameTemplate.vcxproj -> D:\программирование\CG_2_Albert\x64\Debug\CG2_GameTemplate.exe

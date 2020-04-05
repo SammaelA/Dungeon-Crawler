@@ -1,0 +1,9 @@
+layer {
+  _layer = 1
+  _filename = "level1/level1.ll"
+}
+
+layer {
+  _layer = 0
+  _filename = "level1/level1_floor.ll"
+}
